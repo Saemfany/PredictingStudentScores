@@ -23,9 +23,8 @@ Example data:
 ## Project Structure
 - [PredictingStudentScores.ipynb](https://github.com/Saemfany/PredictingStudentScores/blob/fdc593e5685941e8d29d609fa24f98c8cf49a7ac/PredictingStudentScores.ipynb): Contains Jupyter notebooks with the code for training and evaluating the models.
 - [student_scores.csv](https://github.com/Saemfany/PredictingStudentScores/blob/fdc593e5685941e8d29d609fa24f98c8cf49a7ac/student_scores.csv): Contains the dataset used for the project.
-- `models/`: Saved model files for deployment or reuse.
-- `README.md`: Project documentation.
-- `report.pdf`: Detailed report with model explanations and performance metrics.
+- [README.md](): Project documentation.
+- report.pdf: Detailed report with model explanations and performance metrics.
 
 ## Evaluation Metrics
 The models were evaluated based on the following metrics:
