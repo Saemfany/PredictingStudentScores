@@ -21,8 +21,8 @@ Example data:
 3. **Random Forest**: An ensemble learning method that operates by constructing multiple decision trees and outputting the average prediction of the individual trees.
 
 ## Project Structure
-- `notebooks/`: Contains Jupyter notebooks with the code for training and evaluating the models.
-- `data/`: Contains the dataset used for the project.
+- [PredictingStudentScores.ipynb](https://github.com/Saemfany/PredictingStudentScores/blob/fdc593e5685941e8d29d609fa24f98c8cf49a7ac/PredictingStudentScores.ipynb): Contains Jupyter notebooks with the code for training and evaluating the models.
+- [student_scores.csv](https://github.com/Saemfany/PredictingStudentScores/blob/fdc593e5685941e8d29d609fa24f98c8cf49a7ac/student_scores.csv): Contains the dataset used for the project.
 - `models/`: Saved model files for deployment or reuse.
 - `README.md`: Project documentation.
 - `report.pdf`: Detailed report with model explanations and performance metrics.
