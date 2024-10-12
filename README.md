@@ -57,4 +57,5 @@ This project is licensed under the [MIT License](https://github.com/Saemfany/Pre
 
 ## Contact Me
 E-mail: saemfany@gmail.com
-LinkedIn: 
+
+LinkedIn: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syamsul-rizal-fany-410bb6325/)
