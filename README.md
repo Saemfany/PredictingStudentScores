@@ -54,3 +54,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 This project is licensed under the [MIT License](https://github.com/Saemfany/PredictingStudentScores/blob/6b6461718ab48e3a84ef896c541e37fd876e0cf0/LICENSE).
+
+## Contact Me
+E-mail: saemfany@gmail.com
+LinkedIn: 
