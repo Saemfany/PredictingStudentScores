@@ -24,7 +24,7 @@ Example data:
 - [PredictingStudentScores.ipynb](https://github.com/Saemfany/PredictingStudentScores/blob/fdc593e5685941e8d29d609fa24f98c8cf49a7ac/PredictingStudentScores.ipynb): Contains Jupyter notebooks with the code for training and evaluating the models.
 - [student_scores.csv](https://github.com/Saemfany/PredictingStudentScores/blob/fdc593e5685941e8d29d609fa24f98c8cf49a7ac/student_scores.csv): Contains the dataset used for the project.
 - [README.md](https://github.com/Saemfany/PredictingStudentScores/blob/7a50e49c6efdff14b5d0c4d84565be668ce09b0c/README.md): Project documentation.
-- report.pdf: Detailed report with model explanations and performance metrics.
+- [Predicting_Student_Scores.pdf](https://github.com/Saemfany/PredictingStudentScores/blob/51f654284198c6caa53c1a77f9b19b1d52ca59b0/Predicting_Student_Scores.pdf): Detailed report with model explanations and performance metrics.
 
 ## Evaluation Metrics
 The models were evaluated based on the following metrics:
